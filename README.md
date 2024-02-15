@@ -1,2 +1,2 @@
 
-<h1 style="color:green">Hello, I am FloriXak</h1>
+<h1>Hello, I am FloriXak</h1>

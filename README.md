@@ -7,10 +7,10 @@ I'm a passionate programmer who has been interested in coding since 8th grade. C
 
 ## Projects
 
-### Rick and Morty React Web App
+### [Rick and Morty React Web App](https://github.com/florixak/RickAndMortyReactApp)
 A React-based web application that utilizes the Rick and Morty API to display information about the show's characters, episodes, and locations. This project showcases my skills in React and API integration.
 
-### Minecraft UHC Run Mini-Game
+### [Minecraft UHC Run Mini-Game](https://github.com/florixak/UHCRun-Revamp]
 In my free time, I'm developing a Minecraft mini-game called UHCRun. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.
 
 ## Connect with Me

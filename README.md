@@ -7,7 +7,7 @@ I'm a passionate programmer who has been interested in coding since 8th grade. C
 My main expertise lies in frontend web development with React and TailwindCSS, but I also enjoy working on Minecraft plugins using Java and the Spigot/Bukkit API in my spare time. 
 I am also interested in game development, specifically 2D pixel art games, so I am occasionally learning Godot, that is really great for it.
 
-## My skills
+## 💪 My skills
 
 <div style="display:flex">
   <img alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

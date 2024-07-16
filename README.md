@@ -38,13 +38,13 @@ I am also interested in game development, specifically 2D pixel art games, so I 
 
 <ul>
   <li>
-    🌐 <a href="#">Website</a> (Coming soon...)
+    🌐 <a href="#" target="_blank">Website</a> (Coming soon...)
   </li>
   <li>
-    📸 <a href="https://instagram.com/florixak">Instagram</a>
+    📸 <a href="https://instagram.com/florixak" target="_blank">Instagram</a>
   </li>
   <li>
-    💼 <a href="#">LinkedIn</a> (Coming soon...)
+    💼 <a href="#" target="_blank">LinkedIn</a> (Coming soon...)
   </li>
 </ul>
 

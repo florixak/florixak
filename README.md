@@ -25,11 +25,11 @@ I am also interested in game development, specifically 2D pixel art games, so I 
 
 <ul>
   <li>
-    <a style="color:white; decoration:none" href="https://github.com/florixak/RickAndMortyReactApp">Rick and Morty React Web App</a>
+    <a href="https://github.com/florixak/RickAndMortyReactApp">Rick and Morty React Web App</a>
     <p>A React-based web application that utilizes the Rick and Morty API to display information about the show's characters, episodes, and locations. This project showcases my skills in React, TailwindCSS and API integration.</p>
   </li>
   <li>
-    <a style="color:white; decoration:none" href="https://github.com/florixak/UHCRun-Revamp">UHCRun Revamp</a>
+    <a href="https://github.com/florixak/UHCRun-Revamp">UHCRun Revamp</a>
     <p>Minecraft minigame, that I'm developing in my free time. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.</p>
   </li>
 </ul>

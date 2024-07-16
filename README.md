@@ -1,6 +1,8 @@
 
 # Hi there, I'm Ondřej! 👋
 
+---
+
 ## 👨‍💻 About Me
 
 I'm a Czech frontend developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. 
@@ -21,6 +23,8 @@ I have also a big interest in game development, specifically 2D pixel art games,
   <img alt="GitHub" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
+---
+
 ## 📋 Projects
 
 <ul>
@@ -33,6 +37,8 @@ I have also a big interest in game development, specifically 2D pixel art games,
     <p>Minecraft minigame, that I'm developing in my free time. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.</p>
   </li>
 </ul>
+
+---
 
 ## 💬 Connect with Me
 

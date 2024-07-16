@@ -36,9 +36,17 @@ I am also interested in game development, specifically 2D pixel art games, so I 
 
 ## 💬 Connect with Me
 
-- 🌐 [Website](https://your-website.com) (Coming soon...)
-- 📸 [Instagram](https://instagram.com/florixak)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) (Coming soon...)
+<ul>
+  <li>
+    🌐 <a href="#">Website</a> (Coming soon...)
+  </li>
+  <li>
+    📸 <a href="https://instagram.com/florixak">Instagram</a>
+  </li>
+  <li>
+    💼 <a href="#">LinkedIn</a> (Coming soon...)
+  </li>
+</ul>
 
 ## 📱 Contact
 

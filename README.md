@@ -10,10 +10,10 @@ I am also interested in game development, specifically 2D pixel art games, so I 
 ## 📋 Projects
 
 - ### [Rick and Morty React Web App](https://github.com/florixak/RickAndMortyReactApp)
-A React-based web application that utilizes the Rick and Morty API to display information about the show's characters, episodes, and locations. This project showcases my skills in React, TailwindCSS and API integration.
+-- A React-based web application that utilizes the Rick and Morty API to display information about the show's characters, episodes, and locations. This project showcases my skills in React, TailwindCSS and API integration.
 
 - ### [UHCRun Revamp](https://github.com/florixak/UHCRun-Revamp)
-Minecraft minigame, that I'm developing in my free time. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.
+-- Minecraft minigame, that I'm developing in my free time. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.
 
 ## 💬 Connect with Me
 

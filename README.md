@@ -1,5 +1,6 @@
 
 # Hi there, I'm Ondřej! 👋
+## React, Java and Spigot/Bukkit plugins developer
 
 ---
 

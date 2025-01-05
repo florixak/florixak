@@ -1,66 +1,49 @@
+<h2 align="left">Hi 👋! My name is Ondřej and I'm a Czech Republic</h2>
 
-# Hi there, I'm Ondřej! 👋
-## React, Java and Spigot/Bukkit plugins developer
+###
 
----
-
-## 👨‍💻 About Me
-
-I'm a Czech developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. 
-I'm mainly frontend web development with React and TailwindCSS, but I also enjoy working on Minecraft plugins using Java and the Spigot/Bukkit API in my spare time. 
-I have also a big interest in game development, specifically 2D pixel art games, so I am occasionally learning Godot.
-
-## 💪 My skills
-
-<div style="display:flex">
-  <img alt="React" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="TailwindCSS" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Java" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Godot" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img alt="HTML" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Git" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 📋 Projects
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<ul>
-  <li>
-    <a href="https://github.com/florixak/RickAndMortyReactApp">Rick and Morty React Web App</a>
-    <p>A React-based web application that utilizes the Rick and Morty API to display information about the show's characters, episodes, and locations. This project showcases my skills in React, TailwindCSS and API integration.</p>
-  </li>
-  <li>
-    <a href="https://github.com/florixak/UHC-Revamp">UHC Revamp</a>
-    <p>Minecraft minigame, that I'm developing in my free time. This project is built using Java with the Spigot/Bukkit API and demonstrates my ability to create engaging and interactive gaming experiences.</p>
-  </li>
-</ul>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 💬 Connect with Me
+###
 
-<ul>
-  <li>
-    🌐 <a href="#" target="_blank">Website</a> (Coming soon...)
-  </li>
-  <li>
-    📸 <a href="https://instagram.com/florixak" target="_blank">Instagram</a>
-  </li>
-  <li>
-    💼 <a href="#" target="_blank">LinkedIn</a> (Coming soon...)
-  </li>
-</ul>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 📱 Contact
+###
 
-- 📧 Email: florixakcz@seznam.cz
+<br clear="both">
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about coding!
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
----
-
-Thanks for stopping by! Have a great day! 😊
+###

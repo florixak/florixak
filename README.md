@@ -1,5 +1,5 @@
 # Hi there, I'm Ondřej! 👋
-##React developer
+## React frontend developer
 I'm a Czech developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. <br>I'm mainly frontend web development with React and TailwindCSS.
 
 # 💻 Tech Stack

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Ondřej! 👋<br>React developer<br><br>I'm a Czech developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. <br>I'm mainly frontend web development with React and TailwindCSS, but I also enjoy working on Minecraft plugins using Java and the Spigot/Bukkit API in my spare time.
+Hi there, I'm Ondřej! 👋<br>React developer<br><br>I'm a Czech developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. <br>I'm mainly frontend web development with React and TailwindCSS.<bt />
 
 
 # 💻 Tech Stack:

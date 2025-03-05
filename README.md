@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Ondřej! 👋<br/>React Frontend Developer</h1>
+<h1>Hi there, I'm Ondřej! 👋<br/>Frontend Developer</h1>
 
 I'm a Czech developer who has been interested in coding since 8th grade. Currently, I'm studying at a high school with a focus on IT Application Development. <br>I'm mainly frontend web development with React and TailwindCSS. And I am currently learning NextJS.
 

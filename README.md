@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Ondřej! 👋<br/>Fullstack Developer</h1>
+<h1>Hi there, I'm Ondřej! 👋<br/>Front-end Developer</h1>
 
 <ul>
   <li>I am a 19 year old Czech developer who has been interested in coding since 8th grade.</li>

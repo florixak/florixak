@@ -3,7 +3,7 @@
 <ul>
   <li>I am a 19 year old Czech developer who has been interested in coding since 8th grade.</li>
   <li>Currently, I am studying at a high school with a focus on application development in my 4th year.</li>
-  <li>I mainly focus on frontend web development with React and TailwindCSS and I am currently learning NextJS.</li>
+  <li>I mainly focus on web development with React and TailwindCSS and I am currently learning NextJS.</li>
 </ul>
 
 # 💻 Tech Stack

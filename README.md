@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Ondřej! 👋<br/>Fullstack Developer</h1>
 
 <ul>
-  <li>I am a 19 year old Czech developer who has been interested in coding since 8th grade.</li>
-  <li>Currently, I am studying at a high school with a focus on application development in my 4th year.</li>
+  <li>I am a 20 year old Czech developer who has been interested in coding since 8th grade.</li>
+  <li>I recently graduated from high school with honors. My specialization was application and web development.</li>
   <li>I mainly focus on web development with React and TailwindCSS and I am currently learning NextJS.</li>
 </ul>
 

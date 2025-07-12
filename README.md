@@ -2,7 +2,7 @@
 
 <ul>
   <li>I am a 20 year old Czech developer who has been interested in coding since 8th grade.</li>
-  <li>I recently graduated from high school with honors. My specialization was application and web development.</li>
+  <li>I a currently studying at University of West Bohemia in Pilsen, Software Engineering program.</li>
   <li>I mainly focus on web development with React and TailwindCSS and I am currently learning NextJS.</li>
 </ul>
 

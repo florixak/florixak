@@ -3,7 +3,7 @@
 <ul>
   <li>I am a 20 year old Czech developer who has been interested in coding since 8th grade.</li>
   <li>I am currently studying Software Engineering at the University of West Bohemia in Pilsen.</li>
-  <li>I mainly focus on web development with React, NextJS and TailwindCSS and I am currently learning React Native and Spring Boot.</li>
+  <li>Focusing on web development (React, NextJS and TailwindCSS and I am currently learning React Native and Spring Boot).</li>
 </ul>
 
 # 💻 Tech Stack

@@ -1,4 +1,5 @@
-<h1>Hi there, I'm Ondřej! 👋<br/>Fullstack Developer</h1>
+# Hi there, I'm Ondřej! 👋
+### Fullstack Developer
 
 <ul>
   <li>I am a 20 year old Czech developer who has been interested in coding since 8th grade.</li>
@@ -43,8 +44,9 @@
 
 ## 🚀 What am I learning
 - GSAP (animations)
-- Spring Boot (auth and security)
+- Security with Spring Boot (JWT, OAuth)
 - React Native
+- Zustand and Redux
 
 ---
 

@@ -45,8 +45,8 @@
 ## 🚀 What am I learning
 - GSAP (animations)
 - Security with Spring Boot (JWT, OAuth)
-- React Native
 - Zustand and Redux
+- React Native (with Expo)
 
 ---
 

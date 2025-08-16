@@ -43,7 +43,7 @@
 
 ## 🚀 What am I learning
 - GSAP (animations)
-- Pokročilejší Spring Boot (REST API, security, databases)
+- Spring Boot (auth and security)
 - React Native
 
 ---

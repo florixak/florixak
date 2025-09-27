@@ -1,6 +1,8 @@
 # Hi there, I'm Ondřej! 👋
 ### Fullstack Developer
 
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL) 
+
 <ul>
   <li>I am a 20 year old Czech developer who has been interested in coding since the age of 15.</li>
   <li>I am currently studying Software Engineering at the University of West Bohemia in Pilsen.</li>

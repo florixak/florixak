@@ -1,7 +1,6 @@
 # Hi there, I'm Ondřej! 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/ond%C5%99ej-pt%C3%A1k-0ba354347)
 ### Fullstack Developer
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL) 
 
 <ul>
   <li>I am a 20 year old Czech developer who has been interested in coding since the age of 15.</li>

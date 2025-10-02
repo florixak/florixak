@@ -7,7 +7,7 @@
   <li>I focus on building scalable fullstack web applications with React and Next.js, while expanding my skills in React Native and Spring Boot.</li>
 </ul>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/ond%C5%99ej-pt%C3%A1k-0ba354347)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/ptakondrej)
 
 ## 🛠️ Tech Stack
 

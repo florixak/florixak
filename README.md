@@ -50,9 +50,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 🚀 What am I learning
+- TanStack Start
 - GSAP (animations)
 - Security with Spring Boot (JWT, OAuth)
-- Zustand and Redux
 - React Native (with Expo)
 
 ---

@@ -58,9 +58,15 @@
 ---
   
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=florixak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=florixak&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=florixak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=florixak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=florixak&theme=vue-dark&hide_border=false" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florixak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=florixak&icon=0&color=0)](https://visitcount.itsvg.in)

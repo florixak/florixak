@@ -1,8 +1,8 @@
 # Hi there, I'm Ondřej! 👋
-### Fullstack Developer
+### Fullstack Engineer
 
 <ul>
-  <li>I am a 21 year old Czech developer who has been interested in coding since the age of 15.</li>
+  <li>I am a 21 year old Czech engineer who has been interested in coding since the age of 15.</li>
   <li>I am currently studying Software Engineering at the University of West Bohemia in Pilsen.</li>
   <li>I focus on building scalable full-stack web applications using React and Next.js, while also expanding my expertise in Spring Boot and Express.js.</li>
 </ul>

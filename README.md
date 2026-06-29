@@ -5,9 +5,10 @@
   <li>I am a 21 year old Czech engineer who has been interested in coding since the age of 15.</li>
   <li>I am currently studying Software Engineering at the University of West Bohemia in Pilsen.</li>
   <li>I focus on building scalable full-stack web applications using React and Next.js, while also expanding my expertise in Spring Boot and Express.js.</li>
+  <li>You can also check my <a href="https://ondrejptak.dev" target="_blank">portfolio</a>.</li>
 </ul>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/ondrejptak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejptak) 
 
 ## 🛠️ Tech Stack
 

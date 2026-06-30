@@ -52,9 +52,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 🚀 What am I learning
-- GSAP (animations)
-- Security with Spring Boot (JWT, OAuth)
+- Nest.js
 - React Native (with Expo)
+- GSAP (animations)
 
 ---
   

@@ -52,7 +52,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 🚀 What am I learning
-- Nest.js
+- NestJS
 - React Native (with Expo)
 - GSAP (animations)
 
